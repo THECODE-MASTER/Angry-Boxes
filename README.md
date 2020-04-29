@@ -1,1 +1,1 @@
-# Angry-Boxes
+# Box Class
